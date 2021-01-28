@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Franck Yobweun",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "franck YOBWEUN",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
